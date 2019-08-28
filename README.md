@@ -4,6 +4,8 @@ A collection of my deep learning projects to gain a better understanding of deep
 
 ### August 28, 2019 Update
 
+- Deployed: Sentimental RNN Project (Analyzing text)
+
 - Deployed: RNN Project (Generating text)
 
 ### August 26, 2019 Update
