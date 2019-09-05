@@ -1,6 +1,12 @@
 ## Deep Learning Projects
 
-A collection of my deep learning projects to gain a better understanding of deep learning applications## Update threads.
+A collection of my deep learning projects to gain a better understanding of deep learning applications
+
+## Update threads.
+
+### August 28, 2019 Update
+
+- Deployed: First iteration of pneumonia detection
 
 ### August 28, 2019 Update
 
